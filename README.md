@@ -137,8 +137,7 @@ This project covers:
   Linear regression is computationally efficient and retains relationships.  
 - **Future Improvements:**  
   - Address class imbalance via **SMOTE**, **ADASYN**, or **class weights**  
-  - Use advanced models like **XGBoost** or **Random Forest** for higher recall  
-  - Evaluate additional imputation methods (e.g., KNN, Multiple Imputation)
+  - Use advanced models like **XGBoost** or **Random Forest** for higher recall 
 
 ---
 
